@@ -16,6 +16,7 @@ namespace DotNetGitVersion
                 }
             }
             Console.WriteLine("thisx is another change");
+            Console.WriteLine("this is another change in another commit ");
             Console.WriteLine("Hello World!");
         }
     }
