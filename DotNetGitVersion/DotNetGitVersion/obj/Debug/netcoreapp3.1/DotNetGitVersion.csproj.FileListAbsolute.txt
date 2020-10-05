@@ -1,0 +1,11 @@
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\bin\Debug\netcoreapp3.1\DotNetGitVersion.exe
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\bin\Debug\netcoreapp3.1\DotNetGitVersion.deps.json
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\bin\Debug\netcoreapp3.1\DotNetGitVersion.runtimeconfig.json
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\bin\Debug\netcoreapp3.1\DotNetGitVersion.runtimeconfig.dev.json
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\bin\Debug\netcoreapp3.1\DotNetGitVersion.dll
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\bin\Debug\netcoreapp3.1\DotNetGitVersion.pdb
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\obj\Debug\netcoreapp3.1\DotNetGitVersion.AssemblyInfoInputs.cache
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\obj\Debug\netcoreapp3.1\DotNetGitVersion.AssemblyInfo.cs
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\obj\Debug\netcoreapp3.1\DotNetGitVersion.dll
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\obj\Debug\netcoreapp3.1\DotNetGitVersion.pdb
+F:\SERVERGIT\dotnetgiversion\DotNetGitVersion\DotNetGitVersion\obj\Debug\netcoreapp3.1\DotNetGitVersion.genruntimeconfig.cache
