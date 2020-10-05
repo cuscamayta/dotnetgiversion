@@ -15,6 +15,7 @@ namespace DotNetGitVersion
                     Console.WriteLine(b.FriendlyName);
                 }
             }
+            Console.WriteLine("thisx is another change");
             Console.WriteLine("Hello World!");
         }
     }
