@@ -1,5 +1,6 @@
 ﻿using LibGit2Sharp;
 using System;
+using System.IO;
 
 namespace DotNetGitVersion
 {
@@ -7,7 +8,9 @@ namespace DotNetGitVersion
     {
         static void Main(string[] args)
         {
-            using (var repo = new Repository(@"F:\SERVERGIT\dotnetgiversion"))
+            DirectoryInfo directory = new DirectoryInfo(Path.GetFullPath(Path.Combine("dotnetgiversion", @"..\..\..\..\..\..\" )));            
+
+            using (var repo = new Repository(directory.FullName))
             {
                 var branches = repo.Branches;
                 foreach (var b in branches)
