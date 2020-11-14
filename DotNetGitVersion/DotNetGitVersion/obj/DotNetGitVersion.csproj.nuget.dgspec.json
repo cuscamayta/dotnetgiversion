@@ -42,9 +42,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "LibGit2Sharp": {
+            "LibGit2Sharp-SSH-updated-libssh2": {
               "target": "Package",
-              "version": "[0.26.2, )"
+              "version": "[1.0.25, )"
             }
           },
           "imports": [

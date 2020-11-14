@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="LibGit2Sharp" Version="0.26.2" />
+    <PackageReference Include="LibGit2Sharp-SSH-updated-libssh2" Version="1.0.25" />
   </ItemGroup>
 
 </Project>
